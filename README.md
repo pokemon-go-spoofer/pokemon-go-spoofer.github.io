@@ -1,3 +1,6 @@
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="goicon.ico"></head>
+
 # Pokemon GO Spoofer
 
 [![Pokemon GO Spoofer Showcase](https://pokemods.com/wp-content/uploads/pokemon-go-location-spoofer-showcase.jpg)](https://pokemods.com/pokemon-go/spoofer/)
