@@ -1,8 +1,3 @@
----
-title: Pokemon GO Spoofer
-description: Change your location in Pokemon GO.
----
-
 <section class="hero">
 	<div class="text-container">
 		<h1 class="editable">Pokemon GO Spoofer</h1>
